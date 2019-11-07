@@ -8,4 +8,4 @@
 **Thoughts** I already knew the content in this section but my objective is to go through everything, leaving no stone unturned. I expect as time progresses and I get into the groove I'll be able to churn out more in less time.
 
 **Link(s) to work** (N/A)
-1. ![html-html5-complete](html5-success.png)
+1. ![html-html5-complete](html-success.png)
