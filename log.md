@@ -9,3 +9,13 @@
 
 **Link(s) to work** (N/A)
 1. ![html-html5-complete](html-success.png)
+
+
+### Day 2: November 7, Thursday
+
+**Today's Progress**: Completed the Basic CSS section in the Responsive Web Design Certification
+
+**Thoughts** There were a few things I hadn't used before but had some familiarity with from before. I did my hour today, but didn't complete all the lesson until the early hours of Day 3. I'm looking forward to learning animations and enhancing my design skills. I need to manage distractions better, but overall I'm happy with my progress.
+
+**Link(s) to work** (N/A)
+1. ![css-complete](css-success.png)
