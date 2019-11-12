@@ -23,7 +23,7 @@
 ![css-complete](img/css-success.png)
 
 
-### Day 3: November 8, Thursday
+### Day 3: November 8, Friday
 
 **Today's Progress**: Actually completed the Basic CSS section and made significant progress in the Applied Visual Design section in the Responsive Web Design Certification
 
@@ -39,7 +39,7 @@ Watched/Listened to the following
 **Link(s) to work** (N/A)
 
 
-### Day 4: November 9, Friday
+### Day 4: November 9, Saturday
 
 **Today's Progress**: Did some work on my personal project that I developed a few years ago.
 
@@ -49,6 +49,34 @@ Link(s) to work
 1. https://dalevross.github.io/OWLS_Word_Games_Enhancer.html
 2. https://tinyurl.com/free-tracker
 
+
+
+
+### Day 5: November 10, Sunday
+
+**Today's Progress**: Continued working with my chrome extension and checked out Serverless.
+
+**Thoughts** I've set out to cover content that I may have overlooked while I was previously in the field, and even the basic things I already know. I can't help the burning desire to try to build something of value right way. I have a few ideas I want to implement as twitter bots so I decided to sign up for serverless which involved resolving a few issues with my AWS credentials and setting up users. I downloaded an example project and was able to get it configured, however, I ran into issues when testing that I've yet to resolve. I'd like to fully return to free code camp but a few slow days there with focus redirected doesn't hurt. It was encouraging to see that I could understand the flow of the sample code and the project setup wasn't too complex.
+
+* https://serverless.com/examples/aws-node-twitter-joke-bot/
+
+  
+**Link(s) to work** (N/A)
+
+
+
+### Day 6: November 11, Monday
+
+**Today's Progress**: Set up Windows 10 Subsystem for Linux and installed PHP and Composer.
+
+**Thoughts** Another day of setting up my environment with my toolchain. Minimal progress on freecodecamp.org again. I did meet my objectives with getting PHP and Composer installed and was able to set up a test PHP project with a few dependencies. I started looking again at what it would take to complete a Microsoft certification today as I suspect after completing this learning track, my best chance is returning to the same stack I've had most comfort with throughout my career. I also started blogging again which involved a small bit of html/xml modification.
+
+I used the following example for setting up the environment
+* https://www.jeffgeerling.com/blog/2018/installing-php-7-and-composer-on-windows-10-using-ubuntu-wsl
+
+* https://dajencoderoom.blogspot.com/2019/11/getting-up-again.html
+  
+**Link(s) to work** : (N/A)
 
 
 
