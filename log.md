@@ -28,9 +28,12 @@
 **Today's Progress**: Actually completed the Basic CSS section and made significant progress in the Applied Visual Design section in the Responsive Web Design Certification
 
 **Thoughts** I've been putting in most of my work in the 10pm to 3-4am timeframe EST. This means my hour a day tends to merge across days. I hadn't completed the Basic CSS track but wrapped it up early the next morning. I've been distracted or redirecting energy to other activities besides freecodecamp but am definitely using the time more productively than my null days so that's not entirely negative.
+
 Watched/Listened to the following 
-*https://syntax.fm/show/194/potluck-gatsby-vs-next-is-google-home-spying-on-you-flat-file-cms-css-frameworks-hosting-client-sites-more
-*https://codequs.com/p/S1CDckwEr/javascript-who-what-where-why-and-next
+
+* https://syntax.fm/show/194/potluck-gatsby-vs-next-is-google-home-spying-on-you-flat-file-cms-css-frameworks-hosting-client-sites-more
+
+* https://codequs.com/p/S1CDckwEr/javascript-who-what-where-why-and-next
 
 
 **Link(s) to work** (N/A)
